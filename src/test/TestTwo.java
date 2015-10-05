@@ -27,7 +27,7 @@ public class TestTwo extends BaseTestClass{
 				// TODO Auto-generated method stub
 				OutputType<File> file = arg0.FILE;
 				
-				return null;//Just need to find what this code does
+				return null;
 			}
 		};
 		}
